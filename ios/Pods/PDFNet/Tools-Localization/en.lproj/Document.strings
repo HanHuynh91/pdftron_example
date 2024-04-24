@@ -1,0 +1,18 @@
+/**
+ * This file is for reference only.
+ * It contains all the strings in the Tools framework which can be localized in your app.
+ * See the guide at https://www.pdftron.com/documentation/ios/guides/FAQ/localization for more info
+ */
+
+/* No comment provided by engineer. */
+"The file \"%@\" has been changed by another application." = "The file \"%@\" has been changed by another application.";
+
+/* No comment provided by engineer. */
+"Do you want to keep the %@ version, or use the version on disk?" = "Do you want to keep the %@ version, or use the version on disk?";
+
+/* No comment provided by engineer. */
+"Keep %@ Version" = "Keep %@ Version";
+
+/* No comment provided by engineer. */
+"Use Version on Disk" = "Use Version on Disk";
+
